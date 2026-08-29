@@ -1,0 +1,48 @@
+{
+  "final": {
+    "verdict": "OK",
+    "cells": [],
+    "verdict_counts": {
+      "OK": 2
+    },
+    "cell_counts": {}
+  },
+  "runs": [
+    {
+      "verdict": "OK",
+      "findings": [],
+      "normal_observations": "画像は正常な白い樹脂製の洗濯ばさみの外観を示しています。先端のつまみ部は左右対称で、折れた小片や破断面は見当たりません。脚の外縁・内縁は滑らかに曲がり、切り欠きや段差はありません。本体は左右対称で、ねじれや変形はありません。脚の面には黒い細長い穴や裂けは見当たりません。先端のかみ合わせ部には白い異物や盛り上がりはありません。表面には濃い色の筋、暗い斑点、深いひっかき傷、樹脂の欠けも見当たりません。金属リングは支点付近を環状に取り囲んでおり、位置や見え方は正常です。影、粒状ノイズ、四隅の暗さ、傾き、脚の開き具合、リングの位置は正常と判断されました。",
+      "overall_notes": "画像全体が明確に視認でき、欠陥の兆候は見当たりません。正常な外観が確認されました。"
+    },
+    {
+      "verdict": "OK",
+      "findings": [],
+      "normal_observations": "画像は正常サンプルの洗濯ばさみと一致しています。先端のつまみ部は左右対称で、折れや欠けは見当たりません。脚の形状も規則的で、切り欠きや穴はありません。金属リングは支点付近に適切に配置されています。背景の粒状ノイズや影は欠陥とは関係ありません。",
+      "overall_notes": "画像全体が正常サンプルと一致し、明らかな欠陥は検出されませんでした。全ての観察項目が基準を満たしています。"
+    },
+    null
+  ],
+  "meta": [
+    {
+      "model_id": "jp.amazon.nova-2-lite-v1:0",
+      "seconds": 2.77,
+      "input_tokens": 2512,
+      "output_tokens": 264,
+      "temperature_sent": true
+    },
+    {
+      "model_id": "jp.amazon.nova-2-lite-v1:0",
+      "seconds": 2.36,
+      "input_tokens": 2512,
+      "output_tokens": 151,
+      "temperature_sent": true
+    },
+    {
+      "model_id": "jp.amazon.nova-2-lite-v1:0",
+      "seconds": 10.65,
+      "input_tokens": 2512,
+      "output_tokens": 2048,
+      "temperature_sent": true
+    }
+  ]
+}

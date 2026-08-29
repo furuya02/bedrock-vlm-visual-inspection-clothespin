@@ -1,0 +1,53 @@
+{
+  "final": {
+    "verdict": "OK",
+    "cells": [],
+    "verdict_counts": {
+      "OK": 3
+    },
+    "cell_counts": {}
+  },
+  "runs": [
+    {
+      "verdict": "OK",
+      "findings": [],
+      "normal_observations": "画像では、洗濯ばさみの左右対称性、中央の開口部、金属リングの位置、脚の形状、表面の均一な色などが正常な状態で確認できます。影や光沢、背景の粒状ノイズ、脚の開き具合などは正常範囲内です。",
+      "overall_notes": "画像全体から、明らかな欠陥は検出されませんでした。全ての観察項目が正常範囲内に収まっているため、OKと判定しました。"
+    },
+    {
+      "verdict": "OK",
+      "findings": [],
+      "normal_observations": "画像では、洗濯ばさみの左右対称性、中央の開口部、金属リングの位置、脚の形状、表面の均一な色などが正常な範囲内です。影や光沢、背景の粒状ノイズ、脚の開き具合などは正常と判断されました。",
+      "overall_notes": "画像全体で欠陥の兆候は見られません。全ての観察項目が正常範囲内に収まっているため、OKと判定しました。"
+    },
+    {
+      "verdict": "OK",
+      "findings": [],
+      "normal_observations": "画像では、洗濯ばさみの左右対称性、中央の開口部、金属リングの位置、脚の形状、表面の均一な色調が確認できます。影や粒状ノイズ、背景の暗さは欠陥とはみなされません。脚の開き具合やリングの見え方は正常範囲内です。",
+      "overall_notes": "画像全体で欠陥の兆候は見られません。全ての観察項目が正常範囲内に収まっています。"
+    }
+  ],
+  "meta": [
+    {
+      "model_id": "jp.amazon.nova-2-lite-v1:0",
+      "seconds": 2.32,
+      "input_tokens": 2512,
+      "output_tokens": 136,
+      "temperature_sent": true
+    },
+    {
+      "model_id": "jp.amazon.nova-2-lite-v1:0",
+      "seconds": 2.61,
+      "input_tokens": 2512,
+      "output_tokens": 131,
+      "temperature_sent": true
+    },
+    {
+      "model_id": "jp.amazon.nova-2-lite-v1:0",
+      "seconds": 2.57,
+      "input_tokens": 2512,
+      "output_tokens": 134,
+      "temperature_sent": true
+    }
+  ]
+}

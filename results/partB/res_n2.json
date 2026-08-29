@@ -1,0 +1,50 @@
+{
+  "final": {
+    "verdict": "OK",
+    "cells": [],
+    "verdict_counts": {
+      "OK": 3
+    },
+    "cell_counts": {}
+  },
+  "runs": [
+    {
+      "symmetry_check": "左右の脚を中心線で比較しました。左脚と右脚の太さはほぼ同等で、長さも同程度です。脚の曲がり方（カーブの向きと強さ）も左右で鏡像関係にあり、上端の2本の先端は中心線をまたいでほぼ等しい長さで並んでいます。全体として左右対称性は保たれています。",
+      "verdict": "OK",
+      "findings": []
+    },
+    {
+      "symmetry_check": "左右の脚を中心線で比較しました。左脚と右脚の太さはほぼ同等で、長さも同程度です。脚の曲がり方（カーブの向きと強さ）も左右で鏡像関係にあり、上端の2本の先端は中心線をまたいでほぼ等しい長さで並んでいます。全体として左右対称性は保たれています。",
+      "verdict": "OK",
+      "findings": []
+    },
+    {
+      "symmetry_check": "左右の脚を中心線で比較しました。左脚と右脚の太さはほぼ同等で、長さも同程度です。脚の曲がり方（カーブの向きと強さ）も左右で鏡像関係にあり、上端の2本の先端は中心線をまたいでほぼ等しい長さで並んでいます。全体として左右対称性は保たれています。",
+      "verdict": "OK",
+      "findings": []
+    }
+  ],
+  "meta": [
+    {
+      "model_id": "jp.anthropic.claude-haiku-4-5-20251001-v1:0",
+      "seconds": 2.56,
+      "input_tokens": 6328,
+      "output_tokens": 158,
+      "temperature_sent": true
+    },
+    {
+      "model_id": "jp.anthropic.claude-haiku-4-5-20251001-v1:0",
+      "seconds": 2.29,
+      "input_tokens": 6328,
+      "output_tokens": 158,
+      "temperature_sent": true
+    },
+    {
+      "model_id": "jp.anthropic.claude-haiku-4-5-20251001-v1:0",
+      "seconds": 2.3,
+      "input_tokens": 6328,
+      "output_tokens": 158,
+      "temperature_sent": true
+    }
+  ]
+}

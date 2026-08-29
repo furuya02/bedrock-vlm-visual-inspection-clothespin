@@ -1,0 +1,53 @@
+{
+  "final": {
+    "verdict": "OK",
+    "cells": [],
+    "verdict_counts": {
+      "OK": 3
+    },
+    "cell_counts": {}
+  },
+  "runs": [
+    {
+      "verdict": "OK",
+      "findings": [],
+      "normal_observations": "画像は正常な白い樹脂製の洗濯ばさみの外観を示しています。先端のつまみ部は左右対称で、破断面は見当たりません。脚は滑らかに細くなり、曲線が連続しています。金属リングは支点付近を環状に取り囲んでおり、正常に見えます。背景の粒状ノイズや影は欠陥とは見なされません。全体的に正常な形と表面状態を保っています。",
+      "overall_notes": "画像全体が明確に視認でき、欠陥の兆候は見当たりません。正常な形と表面状態を保っているため、OKと判定しました。"
+    },
+    {
+      "verdict": "OK",
+      "findings": [],
+      "normal_observations": "画像は正常な白い樹脂製の洗濯ばさみの外観を示しています。先端のつまみ部は左右対称で、破断面は見当たりません。脚は滑らかに細くなり、曲線が連続しています。金属リングは支点付近を環状に取り囲んでおり、正常に見えます。背景の粒状ノイズや影は欠陥とは見なされません。全体的に正常な形と表面状態を保っています。",
+      "overall_notes": "画像全体が明確に視認でき、欠陥の兆候は見当たりません。正常な形と表面状態を保っているため、OKと判定しました。"
+    },
+    {
+      "verdict": "OK",
+      "findings": [],
+      "normal_observations": "画像は正常な白い樹脂製の洗濯ばさみの外観を示しています。先端のつまみ部は左右対称で、破断面は見当たりません。脚は滑らかに細くなり、曲線が連続しています。金属リングは支点付近を環状に取り囲んでおり、正常に見えます。背景の粒状ノイズや影は欠陥とは見なされません。全体的に正常な形と表面状態を保っています。",
+      "overall_notes": "画像全体が明確に視認でき、欠陥の兆候は見当たりません。正常な形と表面状態を保っているため、OKと判定しました。"
+    }
+  ],
+  "meta": [
+    {
+      "model_id": "jp.amazon.nova-2-lite-v1:0",
+      "seconds": 2.59,
+      "input_tokens": 2512,
+      "output_tokens": 173,
+      "temperature_sent": true
+    },
+    {
+      "model_id": "jp.amazon.nova-2-lite-v1:0",
+      "seconds": 2.11,
+      "input_tokens": 2512,
+      "output_tokens": 173,
+      "temperature_sent": true
+    },
+    {
+      "model_id": "jp.amazon.nova-2-lite-v1:0",
+      "seconds": 2.19,
+      "input_tokens": 2512,
+      "output_tokens": 173,
+      "temperature_sent": true
+    }
+  ]
+}

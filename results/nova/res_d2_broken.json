@@ -1,0 +1,53 @@
+{
+  "final": {
+    "verdict": "OK",
+    "cells": [],
+    "verdict_counts": {
+      "OK": 3
+    },
+    "cell_counts": {}
+  },
+  "runs": [
+    {
+      "verdict": "OK",
+      "findings": [],
+      "normal_observations": "実質の平面は一権な白で、平面の細さかな明減グラデーション、边線の光暖線、気い絶港、成形による気い絶港、支点部の正常な三目形形の開口、指し面の待得的な宝さが平得している。重元リングの見え方、位置、向き、重なりは正常で、これらは得証されない。平面に正常な得さがあり、得証されない。",
+      "overall_notes": "実質の外視は正常なサイルエットを持ち、別の得証されない特殊が見られない。得証されない、全部な得証が正常です。"
+    },
+    {
+      "verdict": "OK",
+      "findings": [],
+      "normal_observations": "実質の平面は一権な白で、平面の細さかな明減グラデーション、边線の光暖線、気い絶港、成形による気い絶港、支点部の正常な三目形形の開口、指し面の待得的な宝さが平得している。重元リングの見え方、位置、向き、重なりは正常で、これらは得証されない。平面に正常な得さがあり、得証されない。",
+      "overall_notes": "実質の外視は正常なサイルエットを持ち、別の得証されない特殊が見られない。得証されない、全部な得証が正常です。"
+    },
+    {
+      "verdict": "OK",
+      "findings": [],
+      "normal_observations": "実質の平面は一権な白で、平面の細さかな明減グラデーション、边線の光暖線、気い絶港、成形による気い絶港、支点部の正常な三目形形の開口、指し面の待得的な宝さが平得している。重元リングの見え方、位置、向き、重なりは正常で、これらは得証されない。平面に正常な得さがあり、得証されない。",
+      "overall_notes": "実質の外視は正常なサイルエットを持ち、別の得証されない特殊が見られない。得証されない、全部な得証が正常です。"
+    }
+  ],
+  "meta": [
+    {
+      "model_id": "jp.amazon.nova-2-lite-v1:0",
+      "seconds": 5.54,
+      "input_tokens": 2512,
+      "output_tokens": 697,
+      "temperature_sent": true
+    },
+    {
+      "model_id": "jp.amazon.nova-2-lite-v1:0",
+      "seconds": 5.32,
+      "input_tokens": 2512,
+      "output_tokens": 697,
+      "temperature_sent": true
+    },
+    {
+      "model_id": "jp.amazon.nova-2-lite-v1:0",
+      "seconds": 5.29,
+      "input_tokens": 2512,
+      "output_tokens": 697,
+      "temperature_sent": true
+    }
+  ]
+}
