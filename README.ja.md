@@ -253,7 +253,7 @@ scripts/        quickstart から 2 箇所を変更したもの
 
 ## 関連記事
 
-- [[Amazon Bedrock] 100均の洗濯ばさみで外観検査AIを試したら「正常の定義」でつまずきました](https://dev.classmethod.jp/articles/)
+- [[Amazon Bedrock] 洗濯ばさみで外観検査AIを試してみました 〜つまずいたのは「正常の定義」でした〜](https://dev.classmethod.jp/articles/bedrock-vlm-visual-inspection-clothespin/)
 - [[Amazon Bedrock] 検査プロンプトを VLM 自身に書かせて外観検査をしてみました](https://dev.classmethod.jp/articles/bedrock-vlm-visual-inspection-generated-prompt/)
 - [[Amazon Bedrock] Nova 2 Lite で金属部品の欠陥検出（外観検査）を試してみました](https://dev.classmethod.jp/articles/bedrock-nova-2-lite-metal-defect-detection/)
 
